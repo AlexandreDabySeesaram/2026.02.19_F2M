@@ -328,7 +328,7 @@ Reduced-order model (ROM)
 
 
 
-# II - Methods {.part-slide}
+# I - Methods {.part-slide}
 
 
 +--------------------------------------+
@@ -1169,7 +1169,7 @@ Note
 
 
 
-# III - Patient-specific parametrisation {.part-slide}
+# II - Patient-specific parametrisation {.part-slide}
 
 :::: {.columns}
 
