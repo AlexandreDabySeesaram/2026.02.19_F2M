@@ -1,7 +1,7 @@
 ---
-title: "Digital Twin of Human Lungs: Towards Real-Time Simulation and Registration of Soft Organs"
+title: "Finite element neural network interpolation: Hybridisation with the proper generalised decomposition for non-linear surrogate modelling"
 subtitle: "F2M - Méthodes de Machine Learning en modélisation mécanique"
-date: 02/04/2026
+date: 02/19/2026
 author: 
     - name: Alexandre Daby-Seesaram <sup><span style="color:#a6ce39ff">[{{< iconify fa-brands:orcid >}}](https://orcid.org/0000-0002-2374-0971)</span></sup>
       email: alexandre.daby-seesaram@polytechnique.edu
@@ -28,32 +28,6 @@ affiliations:
 ## Background - computational mechanics
 
 ![](Figures/CV.svg){height="100%" fig-align="center"}
-
-
-## Digital twin paradigm
-
-
-:::: {.mybox}
-
-::: {.mybox-header}
-Concept
-:::
-
-::: {.mybox-body}
-
-* Constant interaction between the virtual and real worlds to make personalised predictions
-  * Feed the digital twin with patient-specific data
-  * Which then 
-    * provides personalised bio-markers
-    * enables virtual testing
-    * can be used for personalised optimisation (prosthesis design, medical training, etc.)
-
-:::
-
-::::
-
-![](Figures/DT_scheme_2.svg){height=300 fig-align="center"}
-
 
 
 
